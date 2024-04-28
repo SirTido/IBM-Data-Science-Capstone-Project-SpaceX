@@ -11,3 +11,4 @@ Which factor has the most significant impact on a successful landing?
 How does the success rate of landings change over time?
 
 Which predictive model provides the most accurate forecast for a successful landing?
+![image](https://github.com/SirTido/IBM-Data-Science-Capstone-Project-SpaceX/assets/154733194/f6b9bc14-b5b7-4461-976d-a5a4d89cdab5)
